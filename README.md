@@ -1,22 +1,30 @@
 <h1 align="center">Hi 👋, I'm Leonard Fredrick</h1>
-<h3 align="center">💻 Web Developer | 🎓 B.Tech CSE Core | 🎨 Passionate about clean code & creative UI/UX</h3>
+<h3 align="center">💻 Web Developer | 🎓 B.Tech CSE Core | 
 
 ---
 
-### 🚀 About Me
+### 🧑‍💻 About Me
 
-- 🔭 Currently building:  
-  → Responsive full-stack apps  
-  → Exploring AI + Frontend integration  
-  → Mastering TypeScript & performance optimization  
+💡 I'm a passionate full-stack web developer focused on building seamless, performant, and intuitive web applications.
 
-- 💬 Ask me about:  
-  → React • Node.js • MongoDB • Tailwind CSS  
+🚀 **Currently Working On**:
+- Developing responsive full-stack apps using MERN stack  
+- Integrating AI-driven features into modern UIs  
+- Leveling up with TypeScript, Next.js & performance optimization  
 
-- 📫 Reach me at:  
-  <a href="mailto:leonardfredrick2203@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+🧩 **What Drives Me**:
+- Clean, maintainable code  
+- User-centric design  
+- Solving real-world problems with tech  
+
+💬 **Let’s Talk Tech**:  
+- React ⚛️ • Node.js 🟢 • MongoDB 🍃 • Tailwind CSS 🌬️ • TypeScript 🟦  
+
+📫 **Reach Me At**:  
+<a href="mailto:leonardfredrick2203@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/-leonardfredrick2203@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+
 
 ---
 
@@ -37,6 +45,8 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fredrick2216&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+[![Leonard's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fredrick2216&bg_color=1f1f1f&color=9e4c98&line=9e4c98&point=dddd5a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
