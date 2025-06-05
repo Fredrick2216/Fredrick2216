@@ -67,7 +67,23 @@
 > *More projects coming soon... stay tuned!*
 
 ---
+### 🐍 Snake Contribution Tracker
 
+> A fun twist on GitHub contributions — watch a snake chase your commits across a pixel grid!  
+> Just like GitHub’s contribution calendar — but with a moving snake animation!
+
+<p align="center">
+  <a href="https://Leonard2216.github.io/snake-contribution/" target="_blank">
+    <img src="https://Leonard2216.github.io/snake-contribution/preview.gif" alt="Snake Contribution Tracker Preview" width="500" />
+  </a>
+</p>
+
+🔗 **Live Demo**: [Click here to view](https://Leonard2216.github.io/snake-contribution/)
+
+🧠 Built with: `HTML`, `CSS`, `JavaScript`, `Canvas API`  
+🎯 Simulates contributions + Snake pathfinding in grid
+
+---
 ### 🌐 Connect With Me
 
 <p align="center">
