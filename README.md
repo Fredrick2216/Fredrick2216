@@ -86,4 +86,4 @@
   </a>
 </p>
 
-![snake gif](https://github.com/Fredrick2216/Fredrick2216/blob/output/github-contribution-grid-snake.gif)
+https://github.com/Fredrick2216/Fredrick2216/blob/output/github-contribution-grid-snake.gif
