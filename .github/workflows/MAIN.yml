@@ -24,7 +24,7 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.PERSONAL_TOKEN }}  # Must be your PAT, not default token
+          github_token: ${{ secrets.PERSONAL_TOKEN }}
           branch: master
           force: true
 
