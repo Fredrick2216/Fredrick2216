@@ -48,7 +48,7 @@
 
 [![Leonard's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fredrick2216&bg_color=1f1f1f&color=9e4c98&line=9e4c98&point=dddd5a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 ### 🧠 LeetCode Stats
 
@@ -86,4 +86,5 @@
   </a>
 </p>
 
-https://github.com/Fredrick2216/Fredrick2216/blob/output/github-contribution-grid-snake.gif
+
+
