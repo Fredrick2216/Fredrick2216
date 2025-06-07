@@ -62,7 +62,8 @@
 
 - 🌿 **Greenhouse Crop Simulator** – Web tool simulating optimal growth environments for crops  
 - 💰 **Budget Savvy** – Personal finance manager to track expenses and savings  
-- 🏏 **IPL Match Predictor** – Predicts match outcomes using Random Forest on historical IPL data  
+- 😴 **Driver Drowsiness Detection** – Real-time monitoring system to detect driver fatigue using VGG16 and a custom CNN model on video input streams
+ 
 
 > *More projects coming soon... stay tuned!*
 
