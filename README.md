@@ -41,8 +41,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fredrick2216&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Fredrick2216&theme=tokyonight" alt="GitHub Streak" />
-  <br/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fredrick2216&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
