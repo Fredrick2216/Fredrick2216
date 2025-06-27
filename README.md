@@ -52,7 +52,7 @@
 ### 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/leonardfredrick?theme=dark&font=Marcellus&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Leo_2018?theme=dark&font=Marcellus&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 
