@@ -52,8 +52,9 @@
 ### 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/leonard?theme=dark&font=Marcellus&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/leonardfredrick?theme=dark&font=Marcellus&ext=contest" alt="LeetCode Stats" />
 </p>
+
 
 ---
 
@@ -81,7 +82,7 @@
   </a>
   &nbsp;
   
-  <a href="https://leetcode.com/leonard/" target="_blank">
+  <a href="https://leetcode.com/u/Leo_2018/" target="_blank">
     <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
