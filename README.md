@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Leonard Fredrick</h1>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=60&duration=3000&pause=900&color=9F7AEA&center=true&vCenter=true&width=1200&lines=Hi+👋+I'm+Leonard+Fredrick" alt="Leo" />
 <h3 align="center">💻 Web Developer | 🎓 B.Tech CSE Core | 
 
 ---
