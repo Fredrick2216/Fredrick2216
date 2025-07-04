@@ -63,7 +63,7 @@
 
 - 🌿 **Greenhouse Crop Simulator** – Web tool simulating optimal growth environments for crops  
 - 💰 **Budget Savvy** – Personal finance manager to track expenses and savings  
--🤖 TaskAI - AI-Powered Task Management – Intelligent productivity platform with smart task prioritization, team collaboration, and predictive analytics for enhanced workflow optimization.
+- 🤖 **TaskAI** - AI-Powered Task Management – Intelligent productivity platform with smart task prioritization, team collaboration, and predictive analytics for enhanced workflow optimization.
  
 
 > *More projects coming soon... stay tuned!*
