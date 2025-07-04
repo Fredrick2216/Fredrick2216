@@ -63,7 +63,7 @@
 
 - 🌿 **Greenhouse Crop Simulator** – Web tool simulating optimal growth environments for crops  
 - 💰 **Budget Savvy** – Personal finance manager to track expenses and savings  
-- 😴 **Driver Drowsiness Detection** – Real-time monitoring system to detect driver fatigue using VGG16 and a custom CNN model on video input streams
+-🤖 TaskAI - AI-Powered Task Management – Intelligent productivity platform with smart task prioritization, team collaboration, and predictive analytics for enhanced workflow optimization.
  
 
 > *More projects coming soon... stay tuned!*
